@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagbo_christ" target="blank"><img src="https://img.shields.io/twitter/follow/sagbo_christ?logo=twitter&style=for-the-badge" alt="sagbo_christ" /></a> </p>
 
-- 🌱 I’m currently learning **TailwindCss, React**
-
-- 👨‍💻 All of my projects are available at [mariechristsagbo.netlify.app](mariechristsagbo.netlify.app)
+- 🌱 I’m currently learning **HTML, CSS, JavaScript,TailwindCss, React, PHP**
 
 - 📝 I regularly write articles on [https://hashnode.com/@mariechristsagbo](https://hashnode.com/@mariechristsagbo)
 
