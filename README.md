@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marie-Christ Sagbo</h1>
-<h3 align="center">A passionate front-end developer with a love for clean and elegant code. I specialize in creating user-friendly and visually appealing websites that deliver a great user experience.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile%20views&color=0e75b6&style=flat" alt="mariechristsagbo" /> </p>
 
