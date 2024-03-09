@@ -17,7 +17,10 @@
 
 <br/>  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile%20views&color=0e75b6&style=flat" alt="mariechristsagbo" /> </p>
 
+
+  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -108,19 +111,10 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mariechristsagbo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariechristsagbo" /></a></p><br><br>
 
-<br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mariechristsagbo&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
