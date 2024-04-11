@@ -9,10 +9,8 @@
 - 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
   
 
-- 🌱 I’m currently learning VueJs, ReactJs and PHP  
+- 🌱 I’m currently learning VueJs, ReactJs, Django
   
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 <br/>  
