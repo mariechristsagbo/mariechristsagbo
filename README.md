@@ -72,7 +72,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mariechristsagbo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+<br/>
+
+## Top languages
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariechristsagbo&theme=tokyonight)
+
 
 
 <h3 align="left">Support:</h3>
