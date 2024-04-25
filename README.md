@@ -39,7 +39,7 @@
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
       <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
     </td>
-    <td></td> 
+ 
   </tr>
 </table>
 
