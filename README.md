@@ -20,7 +20,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" style="padding=20px">
+    <td align="center" style="padding=50px">
       <b>Frontend</b>
       <br/>
       <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>&nbsp;&nbsp;&nbsp;
