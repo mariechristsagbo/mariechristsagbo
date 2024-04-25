@@ -1,17 +1,12 @@
-<div align="center" width="100%">
+<div align="center">
 👋
 </div>  
-  
 
 ### <div align="center">I'm Marie-Christ, a full-time freelance developer 👨‍💻 🚀</div>  
-  
 
 - 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
-  
 
 - 🌱 I’m currently learning VueJs, ReactJs, Django
-  
-  
 
 <br/>  
 
@@ -20,10 +15,11 @@
 
   
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+    
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   
@@ -35,20 +31,19 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
+    </td>
+    <td valign="top" width="50%">
+    
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
+    </td>
+  </tr>
+</table>
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -71,10 +66,8 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 
 ## Github Stats  
@@ -89,6 +82,3 @@
 
 
 <br/>  
-
-
-<br />
