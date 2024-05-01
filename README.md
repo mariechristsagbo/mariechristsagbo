@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile%20views&color=0e75b6&style=flat" alt="mariechristsagbo" /> </p>
 
-
+[![wakatime](https://wakatime.com/badge/user/018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1.svg)](https://wakatime.com/@018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1)
   
 ## My Skill Set  
 
