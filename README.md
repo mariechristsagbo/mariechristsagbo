@@ -4,6 +4,9 @@
 
 ## <div align="center">I'm Marie-Christ, Front-End Developer 👨‍💻 🚀</div>  
 
+<br/>  
+
+
 - 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
 
 - 🌱 I’m currently learning VueJs, ReactJs, Django
