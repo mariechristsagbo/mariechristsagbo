@@ -30,7 +30,8 @@
     <td align="center" style="padding=20px">
       <b>Backend</b>
       <br/>
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
+      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
     </td>
   </tr>
   <tr>
@@ -39,7 +40,6 @@
       <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
       <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
     </td>
- 
   </tr>
 </table>
 
@@ -76,14 +76,10 @@
 
 ## Top languages
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariechristsagbo&theme=tokyonight)
-
 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mariechristsagbo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariechristsagbo" /></a></p><br><br>
-
-
 
 <br/>  
