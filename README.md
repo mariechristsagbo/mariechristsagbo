@@ -2,7 +2,7 @@
 👋
 </div>  
 
-### <div align="center">I'm Marie-Christ, Front-End Developer 👨‍💻 🚀</div>  
+### <div>I'm Marie-Christ, Front-End Developer 👨‍💻 🚀</div>  
 
 - 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
 - 🌱 I’m currently learning ReactJS, NextJs, Python, Django
@@ -19,7 +19,7 @@
 
 ### Frontend & Backend
 
-<table align="center" style="width:80%; border-collapse: collapse;">
+<table style="width:80%; border-collapse: collapse;">
   <tr>
     <th align="center" style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">Frontend</th>
     <th align="center" style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">Backend</th>
