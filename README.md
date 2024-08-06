@@ -1,5 +1,5 @@
-<div align="center">
-👋
+<div>
+Hi ! 👋
 </div>  
 
 ### <div>I'm Marie-Christ, Front-End Developer 👨‍💻 🚀</div>  
