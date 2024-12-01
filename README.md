@@ -2,7 +2,7 @@
 Hi ! 👋
 </div>  
 
-### <div>I'm Marie-Christ, Front-End Developer 👨‍💻 🚀</div>  
+### <div>I'm Marie-Christ, Web Developer and Data Science Enthusiast 👨‍💻 🚀</div>  
 
 - 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
 - 🌱 I’m currently learning ReactJS, NextJs, Python, Django
