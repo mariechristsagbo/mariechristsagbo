@@ -5,7 +5,7 @@ Hi ! 👋
 ### <div>I'm Marie-Christ, Web Developer and Data Science Enthusiast 👨‍💻 🚀</div>  
 
 - 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
-- 🌱 I’m currently learning ReactJS, NextJs, Python, Django
+- 🌱 I’m currently learning VueJS, ReactJS, NextJs, Python, Django
 - 📫 How to reach me: mariechristsagbo@gmail.com
 - ⚡ Fun fact: I love anime and videos game
 
