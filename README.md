@@ -1,21 +1,18 @@
-<!-- Banner, animate with SVG or GIF if you want more punch! -->
 <p align="center">
  <p align="center">
-  <img src="https://i.imgur.com/JnCEnKh.jpg" alt="Anime Coder Banner" width="80%" style="border-radius: 20px; box-shadow: 0 6px 32px #0008;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd2NmtmZ3A4a2o5MzVpZXhpOXFiamtjZ3J4NzBkamtzNGY3YnNmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif" alt="Banner" width="80%">
 </p>
 
 </p>
 
-<!-- Greeting / tagline -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#7b2ff2">Marie-Christ</span>!</h1>
 <p align="center">
   <b>Web Developer • Data & AI Enthusiast • Code Aesthetician</b>
 </p>
-<p align="center">
+<p align="center";>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=7B2FF2&center=true&vCenter=true&multiline=true&lines=I+code+the+future.+I+craft+the+web+you+use.+I+love+to+learn+and+share.%F0%9F%91%BB;Anime+fan+%7C+Open+Source+%7C+UI+Addict" alt="Animated typing">
 </p>
 
-<!-- Profile badges / stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile+Views" alt="Profile views" />
   <img src="https://wakatime.com/badge/user/018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1.svg" alt="wakatime" />
