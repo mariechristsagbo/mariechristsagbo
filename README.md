@@ -1,69 +1,67 @@
-<div>
-Hi ! 👋
-</div>  
+<!-- Banner, animate with SVG or GIF if you want more punch! -->
+<p align="center">
+  <img src="https://readme-hero.vercel.app/api?username=mariechristsagbo&title=Marie-Christ%20Sagbo&subtitle=Web%20Developer%20|%20AI%20&%20Data%20Science%20Enthusiast&tagline=Building%20The%20Web%20Of%20Tomorrow&bg=gradient:purple,blue&animation=wave" alt="Marie-Christ Sagbo Hero Banner" style="width:90%;">
+</p>
 
-### <div>I'm Marie-Christ, Web Developer and Data Science Enthusiast 👨‍💻 🚀</div>  
+<!-- Greeting / tagline -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#7b2ff2">Marie-Christ</span>!</h1>
+<p align="center">
+  <b>Web Developer • Data & AI Enthusiast • Code Aesthetician</b>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=7B2FF2&center=true&vCenter=true&multiline=true&lines=I+code+the+future.+I+craft+the+web+you+use.+I+love+to+learn+and+share.%F0%9F%91%BB;Anime+fan+%7C+Open+Source+%7C+UI+Addict" alt="Animated typing">
+</p>
 
-- 🔭 I’m currently working on [developer portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
-- 🌱 I’m currently learning VueJS, ReactJS, NextJs, Python, Django
-- 📫 How to reach me: mariechristsagbo@gmail.com
-- ⚡ Fun fact: I love anime and videos game
+<!-- Profile badges / stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile+Views" alt="Profile views" />
+  <img src="https://wakatime.com/badge/user/018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1.svg" alt="wakatime" />
+</p>
 
-<br/>  
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile%20views&color=0e75b6&style=flat" alt="mariechristsagbo" /> </p>
+## 👨‍💻 About Me
 
-[![wakatime](https://wakatime.com/badge/user/018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1.svg)](https://wakatime.com/@018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1)
-  
-## My Skill Set  
+- 🔭 Currently building: [My Developer Portfolio](https://figma-to-code-week4-mariechrist.vercel.app/)  
+- 🌱 Learning: Vue.js, React.js, Next.js, Python, Django  
+- 🎮 Fun fact: Otaku & gamer at heart  
+- ✉️ Reach me: [mariechristsagbo@gmail.com](mailto:mariechristsagbo@gmail.com)
 
-### Frontend & Backend
+---
 
-<table style="width:80%; border-collapse: collapse;">
-  <tr>
-    <th align="center" style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">Frontend</th>
-    <th align="center" style="border: 1px solid #ddd; padding: 10px; background-color: #f2f2f2;">Backend</th>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-      <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-    </td>
-    <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-      <a href="https://www.djangoproject.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid #ddd; padding: 20px;">
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>&nbsp;&nbsp;&nbsp;
-      <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-    </td>
-  </tr>
-</table>
+## 🛠️ My Toolbox
 
-## Connect with me  
-<div>
-<a href="https://github.com/mariechristsagbo" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sagbo_christ" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marie-christ-sagbo" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/marie.christ_sagbo" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/mariechristsagbo" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/Marie-Christ" target="_blank">
-<img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble" style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,js,ts,py,django,fastapi,html,css,tailwind,bootstrap,figma,git,linux" alt="Skills" />
+</p>
 
-<br/>  
+---
+
+## 🚀 What I Do
+
+
+function buildWebApps() {
+  return ["frontend", "backend", "api", "design", "data", "ai"];
+}
+Web: Modern UIs, responsive design, SPA, PWA
+
+Backend: APIs with Django/FastAPI/Node, PostgreSQL
+
+AI & Data: Data viz, machine learning, OCR, a11y
+
+UX/UI: Figma, Dribbble, creative prototyping
+
+Dev Tools: VSCode, Git, Linux, Wakatime
+
+✨ Let’s Connect
+<p align="center"> <a href="https://github.com/mariechristsagbo"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://twitter.com/sagbo_christ"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/marie-christ-sagbo"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/marie.christ_sagbo"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/mariechristsagbo"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://dribbble.com/Marie-Christ"><img src="https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white" /></a> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mariechristsagbo&show_icons=true&theme=tokyonight&hide=contribs" alt="Marie-Christ's GitHub stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariechristsagbo&layout=compact&theme=tokyonight" alt="Top Languages" height="180" /> </p>
+🌱 Latest Projects
+Figma to Code Week
+
+My Portfolio
+
+ALPR Smart Border
+
+Anime Dashboard (in progress)
