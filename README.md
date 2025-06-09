@@ -1,7 +1,7 @@
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmIyOXAwbHp1N3FucGJsaDB0aHAzODA3eWNxOXQ0MHBobDFvZ2Z0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif" alt="Gojo Satoru" />
-
+<img src="./Eyes Jujutsu Kaisen GIF by Xbox.gif" alt="Satoru Gojo Animation" width="100%">
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7B2FF2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Marie-Christ!;Software+Developer+%E2%80%A2+Data+%26+AI+Enthusiast;I+craft+the+web+you+use+%F0%9F%9A%80;Anime+fan+%7C+Open+Source+%7C+UI+Addict+%F0%9F%8E%A8)](https://git.io/typing-svg)
   
   <p>
