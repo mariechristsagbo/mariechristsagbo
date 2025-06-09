@@ -10,7 +10,7 @@
   </p>
 </div>
 
----
+
 
 ## 🎯 About Me
 
@@ -25,7 +25,7 @@ const marieChrist = {
 };
 ```
 
----
+
 
 ## 🛠️ Tech Arsenal
 
@@ -58,7 +58,6 @@ const marieChrist = {
 
 </div>
 
----
 
 ## 🚀 What I'm Building
 
@@ -92,7 +91,7 @@ def my_skills():
 </tr>
 </table>
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -105,7 +104,7 @@ def my_skills():
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariechristsagbo&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
+
 
 ## 🎮 Fun zone
 
@@ -122,7 +121,6 @@ def my_skills():
 
 </div>
 
----
 
 ## 🤝 Let's connect & collaborate
 
