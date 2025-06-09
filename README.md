@@ -1,6 +1,9 @@
 <!-- Banner, animate with SVG or GIF if you want more punch! -->
 <p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=mariechristsagbo&title=Marie-Christ%20Sagbo&subtitle=Web%20Developer%20|%20AI%20&%20Data%20Science%20Enthusiast&tagline=Building%20The%20Web%20Of%20Tomorrow&bg=gradient:purple,blue&animation=wave" alt="Marie-Christ Sagbo Hero Banner" style="width:90%;">
+ <p align="center">
+  <img src="https://i.imgur.com/JnCEnKh.jpg" alt="Anime Coder Banner" width="80%" style="border-radius: 20px; box-shadow: 0 6px 32px #0008;">
+</p>
+
 </p>
 
 <!-- Greeting / tagline -->
