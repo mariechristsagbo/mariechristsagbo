@@ -4,11 +4,11 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7B2FF2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Marie-Christ!;Software+Developer+%E2%80%A2+Data+%26+AI+Enthusiast;I+craft+the+web+you+use+%F0%9F%9A%80;Anime+fan+%7C+Open+Source+%7C+UI+Addict+%F0%9F%8E%A8)](https://git.io/typing-svg)
   
-  <p>
+ <!-- <p>
     <img src="https://komarev.com/ghpvc/?username=mariechristsagbo&label=Profile+Views&color=7B2FF2&style=flat-square" alt="Profile views" />
     <img src="https://wakatime.com/badge/user/018e0844-2ba7-4ee1-8dd9-fe5baf2c8de1.svg" alt="wakatime" />
   </p>
-</div>
+</div> -->
 
 
 
