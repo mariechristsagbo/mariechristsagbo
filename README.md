@@ -35,7 +35,7 @@ These roles taught me not only how to build user interfaces, but also how to col
 
 
 
-## 🏆 Hackathons & Achievements  
+## 🏆 Hackathons & achievements  
 
 Hackathons have been a playground where I push myself, learn quickly, and collaborate with other passionate developers.  
 
