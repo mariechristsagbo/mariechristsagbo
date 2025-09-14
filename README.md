@@ -17,7 +17,7 @@ Not long after, I had my first professional experiences as a **Frontend Engineer
 These roles taught me not only how to build user interfaces, but also how to collaborate in real projects, facing real deadlines.  
 
 
-## 💼 Professional Experiences  
+## 💼 Professional experiences  
 
 **Mameri SARL**  *Fullstack Developer Intern*  
 - Designed and developed **REST APIs** with Laravel  
