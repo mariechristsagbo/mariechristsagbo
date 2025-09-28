@@ -16,25 +16,6 @@ Step by step, coding went from curiosity to passion.
 Not long after, I had my first professional experiences as a **Frontend Engineer** at **Natex Services** and **The Creative Mind**.  
 These roles taught me not only how to build user interfaces, but also how to collaborate in real projects, facing real deadlines.  
 
-
-## 💼 Professional experiences  
-
-**Mameri SARL**  *Fullstack Developer Intern*  
-- Designed and developed **REST APIs** with Laravel  
-- Built front-end features with Angular  
-- Wrote product backlogs & participated in sprint planning  
-- Resolved bugs and contributed to continuous improvement  
-- Strengthened my understanding of Agile/Scrum teamwork  
-
-**Tama Studio** *Web Developer Intern*  
-- Implemented features for **comments and reviews** on books  
-- Built modules for **premium offers, royalties, and transactions**  
-- Enhanced the user experience with **Next.js + Supabase**  
-- Developed tools for content and offer management  
-- Learned to align technical solutions with editorial & marketing needs  
-
-
-
 ## 🏆 Hackathons & achievements  
 
 Hackathons have been a playground where I push myself, learn quickly, and collaborate with other passionate developers.  
