@@ -16,15 +16,6 @@ Step by step, coding went from curiosity to passion.
 Not long after, I had my first professional experiences as a **Frontend Engineer** at **Natex Services** and **The Creative Mind**.  
 These roles taught me not only how to build user interfaces, but also how to collaborate in real projects, facing real deadlines.  
 
-## 🏆 Hackathons & achievements  
-
-Hackathons have been a playground where I push myself, learn quickly, and collaborate with other passionate developers.  
-
-- 🏆 **Winner – Hub Innovation Hackathon** (University of Parakou + Sèmè City)  
-- 🤖 **Participant – Benin Multimodal AI Hackathon** (AI for local languages)  
-
-These moments confirmed that teamwork + creativity = powerful solutions.  
-
 
 ## Today  
 
