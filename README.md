@@ -66,7 +66,7 @@ I’m on a journey to:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marie-christ-sagbo/)  
 - 🐙 [GitHub](https://github.com/mariechristsagbo)  
-- 📧 Reach me at: **marie-christ.sagbo@epitech.eu**  
+- 📧 Reach me at: **marie-christ.sagbo@epitech.eu/mariechristsagbo@gmail.com**  
 
 
 My philosophy: stay curious, keep learning, and build things that matter.  
