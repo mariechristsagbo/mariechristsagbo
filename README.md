@@ -2,7 +2,7 @@
 
 **I’m Marie-Christ Sagbo**
 
-I’m a **Software Developer** passionate about building digital products that make a difference.  
+I’m a **Software Engineer** passionate about building digital products that make a difference.  
 Curious by nature, I love exploring everything around **Data** and **Artificial Intelligence**, even if I’m just starting that journey.  
 My path in tech has been shaped by curiosity, challenges, and a desire to always go further 🚀.  
 
@@ -13,7 +13,7 @@ In **2022**, right after my high school diploma, I decided to dive into the worl
 I started small: following courses on [**OpenClassrooms**](https://openclassrooms.com/fr/) and watching [**Grafikart tutorials**](https://www.youtube.com/@grafikart) on YouTube.  
 Step by step, coding went from curiosity to passion.  
 
-Not long after, I had my first professional experiences as a **Frontend Engineer** at **Natex Services** and **The Creative Mind**.  
+Not long after, I had my first professional experiences as a **Frontend Engineer** at **Natex Services** and **TheCreativeMind**.  
 These roles taught me not only how to build user interfaces, but also how to collaborate in real projects, facing real deadlines.  
 
 
