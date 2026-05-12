@@ -12,7 +12,7 @@ My current interests include:
 - AI Systems Reliability
 - Scalable Backend Systems
 
----
+
 
 ## Tech Stack
 
@@ -49,7 +49,7 @@ My current interests include:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+
 
 ## Research & Technical Interests
 
@@ -62,9 +62,9 @@ My current interests include:
 - AI System Observability
 - MLOps & ML System Reliability
 
----
 
-## Current Focus
+
+## Current focus
 
 - Reading research papers on software quality and AI systems
 - Exploring software architecture and distributed systems
@@ -72,9 +72,9 @@ My current interests include:
 - Learning about MLOps and reliable ML systems
 - Improving software maintainability and scalability practices
 
----
 
-## Featured Projects
+
+## Featured projects
 
 ### 🚗 Automatic Number Plate Recognition System (ANPR)
 
@@ -86,7 +86,6 @@ Key areas:
 - Real-world robustness under varying conditions
 - Applied AI for transportation systems
 
----
 
 ### 🌍 African Language Translation System
 
@@ -99,47 +98,29 @@ Focus areas:
 - AI accessibility
 - Applied machine learning systems
 
----
 
-### 🏢 Ceerix — Business Management Platform
-
-All-in-one business management platform integrating:
-- Inventory management
-- Sales tracking
-- Invoicing
-- Reporting systems
-
-Focus:
-- Modular architecture
-- Scalability
-- Maintainable backend systems
-
----
-
-## Currently Reading
+## Currently reading
 
 - Research papers on Software Quality and Maintainability
 - SE4AI (Software Engineering for AI Systems)
 - AI Systems Reliability
 - Distributed Systems & Scalable Architectures
 
----
 
-## Long-Term Goals
+## Long-term goals
 
 - Contribute to research in Software Engineering for AI Systems
 - Build reliable and scalable AI-enabled systems
 - Design maintainable software architectures for real-world applications
 - Bridge software engineering principles with modern AI systems
 
----
 
-## Let’s Connect
+## Let’s connect
 
 - 💼 LinkedIn: https://linkedin.com/in/marie-christ-sagbo
 - 🐙 GitHub: https://github.com/mariechristsagbo
 - 📧 Email: mariechristsagbo@gmail.com
 
----
+
 
 > “Stay curious, keep learning, and build systems that matter.”
