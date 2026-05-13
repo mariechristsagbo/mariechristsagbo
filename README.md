@@ -86,19 +86,6 @@ Key areas:
 - Real-world robustness under varying conditions
 - Applied AI for transportation systems
 
-
-### 🌍 African Language Translation System
-
-AI-powered translation prototype for low-resource African languages (Fon & Yoruba).
-
-Built during an AI Multimodal Hackathon.
-
-Focus areas:
-- NLP for low-resource languages
-- AI accessibility
-- Applied machine learning systems
-
-
 ## Currently reading
 
 - Research papers on Software Quality and Maintainability
