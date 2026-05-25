@@ -12,8 +12,6 @@ My current interests include:
 - AI Systems Reliability
 - Scalable Backend Systems
 
-
-
 ## Tech Stack
 
 ### Programming Languages
@@ -50,7 +48,6 @@ My current interests include:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
 ## Research & Technical Interests
 
 - Software Engineering for AI Systems (SE4AI)
@@ -61,38 +58,6 @@ My current interests include:
 - Reliable AI Systems
 - AI System Observability
 - MLOps & ML System Reliability
-
-
-
-## Current focus
-
-- Reading research papers on software quality and AI systems
-- Exploring software architecture and distributed systems
-- Building engineering-oriented AI projects
-- Learning about MLOps and reliable ML systems
-- Improving software maintainability and scalability practices
-
-
-
-## Featured projects
-
-### 🚗 Automatic Number Plate Recognition System (ANPR)
-
-Computer vision system for vehicle fleet management in Benin.
-
-Key areas:
-- License plate detection and recognition
-- Image preprocessing with OpenCV
-- Real-world robustness under varying conditions
-- Applied AI for transportation systems
-
-## Currently reading
-
-- Research papers on Software Quality and Maintainability
-- SE4AI (Software Engineering for AI Systems)
-- AI Systems Reliability
-- Distributed Systems & Scalable Architectures
-
 
 ## Long-term goals
 
