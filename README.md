@@ -2,15 +2,9 @@
 
 ## I’m Marie-Christ Sagbo
 
-I’m a Software Engineering and Software Architecture student passionate about building reliable, scalable, and maintainable software systems.
+Software Engineering & Software Architecture Student.
 
-My current interests include:
-- Software Architecture
-- Software Quality & Maintainability
-- SE4AI (Software Engineering for AI Systems)
-- Distributed Systems
-- AI Systems Reliability
-- Scalable Backend Systems
+**Research & Technical Interests :** Software Architecture, Software Quality, AI Systems, NLP, Distributed Systems, and Software Engineering Research.
 
 ## Tech Stack
 
@@ -46,25 +40,6 @@ My current interests include:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-## Research & Technical Interests
-
-- Software Engineering for AI Systems (SE4AI)
-- Software Quality & Maintainability
-- Technical Debt in AI Systems
-- Distributed Systems
-- Scalable Software Architectures
-- Reliable AI Systems
-- AI System Observability
-- MLOps & ML System Reliability
-
-## Long-term goals
-
-- Contribute to research in Software Engineering for AI Systems
-- Build reliable and scalable AI-enabled systems
-- Design maintainable software architectures for real-world applications
-- Bridge software engineering principles with modern AI systems
 
 
 ## Let’s connect
